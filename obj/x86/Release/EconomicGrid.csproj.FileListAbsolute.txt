@@ -1,0 +1,36 @@
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Release\EconomicGrid.exe.config
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Release\EconomicGrid.exe
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Release\EconomicGrid.pdb
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.Admin.resources
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.Properties.Resources.resources
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.ResultEdit.resources
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.User.resources
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.exe
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Release\EconomicGrid.pdb
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Release\EconomicGrid.exe.config
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.exe
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.pdb
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Release\EconomicGrid.exe
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Release\EconomicGrid.pdb
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.Admin.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.Properties.Resources.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.ResultEdit.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\EconomicGrid.User.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mobyman\Desktop\EconomicGrid\bin\Release\EconomicGrid.exe.config
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.exe
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.pdb
+C:\Users\Mobyman\Desktop\EconomicGrid\bin\Release\EconomicGrid.exe
+C:\Users\Mobyman\Desktop\EconomicGrid\bin\Release\EconomicGrid.pdb
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.Admin.resources
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.Properties.Resources.resources
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.ResultEdit.resources
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\EconomicGrid.User.resources
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mobyman\Desktop\EconomicGrid\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

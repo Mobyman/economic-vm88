@@ -1,0 +1,28 @@
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Debug\EconomicGrid.exe
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Debug\EconomicGrid.pdb
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.Properties.Resources.resources
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.exe
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.pdb
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.Admin.resources
+c:\users\mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.User.resources
+C:\Users\Mobyman\Documents\Visual Studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\EconomicGrid.ResultEdit.resources
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\bin\Debug\EconomicGrid.exe.config
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mobyman\documents\visual studio 2010\Projects\EconomicGrid\EconomicGrid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Debug\EconomicGrid.exe.config
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.exe
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.pdb
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.Admin.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.Properties.Resources.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.ResultEdit.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\EconomicGrid.User.resources
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Debug\EconomicGrid.exe
+C:\Users\Gaste\Documents\economic\EconomicGrid\bin\Debug\EconomicGrid.pdb

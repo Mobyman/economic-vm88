@@ -1,0 +1,44 @@
+<categories>
+  <category catid="0" name="Тема №1">
+    <questions id="0" question="Привет" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+  <category catid="1" name="">
+    <questions id="0" question="" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+  <category catid="2" name="">
+    <questions id="0" question="" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+  <category catid="3" name="">
+    <questions id="0" question="" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+  <category catid="4" name="">
+    <questions id="0" question="" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+  <category catid="5" name="">
+    <questions id="0" question="" answer=""></questions>
+    <questions id="1" question="" answer=""></questions>
+    <questions id="2" question="" answer=""></questions>
+    <questions id="3" question="" answer=""></questions>
+    <questions id="4" question="" answer=""></questions>
+  </category>
+</categories>

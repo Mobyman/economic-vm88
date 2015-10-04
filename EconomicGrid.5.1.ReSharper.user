@@ -1,0 +1,88 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="placesdict" priority="6" />
+      <Item value="for" priority="1" />
+      <Item value="int" priority="12" />
+      <Item value="i" priority="7" />
+      <Item value="teamsscore" priority="3" />
+      <Item value="new" priority="4" />
+      <Item value="dictionary" priority="0" />
+      <Item value="teams" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="max" priority="0" />
+      <Item value="mass" priority="9" />
+      <Item value="position" priority="6" />
+      <Item value="Array`0" priority="2" />
+      <Item value="myAL" priority="1" />
+      <Item value="scores" priority="2" />
+      <Item value="MessageBox`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="Keys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Add`0" priority="0" />
+      <Item value="Keys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Sort`1" priority="0" />
+      <Item value="Resize`1" priority="0" />
+      <Item value="Reverse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ICollection">
+      <Item value="CopyTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Program.cs" caret="468" fromTop="16" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="13084" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12221" fromTop="26" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12221" fromTop="21" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="13466" fromTop="28" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12221" fromTop="27" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12221" fromTop="26" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="166" fromTop="6" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12889" fromTop="23" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12881" fromTop="26" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12337" fromTop="1" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="12885" fromTop="9" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="13293" fromTop="22" />
+      <File id="DF844AFD-1F00-4DBF-A7A4-86AE839B6F65/f:Admin.cs" caret="13191" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
